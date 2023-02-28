@@ -13,6 +13,7 @@
 - Quantitative Methods in Economics • RSAU-MTAA • 2006-2011
 
 📚 LifeLong Learning @ Data Analytics Courses:
+- ML Engineer, MTS.Teta • 2022
 - Analyst Simulator, KARPOV.COURSES • 2022
 - Google Data Analytics, Coursera • 2022
 - Machine Learning Summer School, MTS.Teta • 2021
